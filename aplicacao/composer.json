@@ -1,0 +1,11 @@
+{
+    "name": "eti/composer-php",
+    "description": "Composer curso de PHP",
+    "authors": [
+        {
+            "name": "Wyliston Lessa Caires",
+            "email": "lessacaires@gmail.com"
+        }
+    ],
+    "require": {}
+}
